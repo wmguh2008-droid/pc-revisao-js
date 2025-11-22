@@ -1,2 +1,2 @@
-# pc---revis-o-js
+# pc-revisão-js
 revisão do professor Corrêa.
